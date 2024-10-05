@@ -98,3 +98,5 @@ autograd没看明白 17.34
 probability 18.07
 
 probability 20.40
+
+git 冲突解决，如果管理得好，直接git pull，git push 21.41
