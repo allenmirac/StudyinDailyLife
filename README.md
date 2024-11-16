@@ -306,3 +306,56 @@ faker快退役吧，抓狂.jpg
 论文检索 13.46
 
 简单的NER怎么实现，概念不太懂，看代码还是有点难受 17.44
+
+## 11.12. 周二 天气阴
+
+学如何实现RNN
+
+- [x] 序列的预测
+- [x] 词频如何统计，属于文本预处理，（次元化即分割、词表即构建词典，根据词频降序排列）
+
+## 11.13. 周三 天气阴
+
+上午数学课
+
+SPSS，一致性检验 12.16
+
+- [ ] Topsis 模型没看完 https://iwannaeat.github.io/2020/02/02/%E3%80%90%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E3%80%912-1%E4%BC%98%E5%8A%A3%E8%A7%A3%E8%B7%9D%E7%A6%BB%E6%B3%95Topsis%E6%A8%A1%E5%9E%8B/
+- [ ] rnn scratch 没看明白，rnn concise也没看明白，bptt更不要说了 21.36
+- [ ] 语言模型与数据集：拉普拉斯平滑、奇普夫定律、三元语法又是啥子意思  22.44
+
+## 11.14. 周四 天气阴
+
+Reading task
+
+- [ ] https://debugtalk.com/post/my-2020-summary/
+- [ ] https://iyaozhen.com/work-first-5years.html
+- [ ] https://zhangbc.github.io/2020/03/01/paper_01/
+
+下午找文献，还是没有找到合适ideReview 17.32
+
+数学建模中的常见算法 https://developer.aliyun.com/article/1168855 
+
+数据拟合、参数估计、插值等数据处理算法看完简单实现 21.40
+
+https://developer.aliyun.com/article/1168855 明天继续看 21.51
+
+## 11.15. 周五 天气阴
+
+看NER综述，第三小节 技术发展 11.58
+
+看完了一遍论文：NER综述 15.50
+
+记笔记 16.20
+
+看亚太杯中文试题B题 23.06
+
+皮尔逊相关系数、斯皮尔曼等级相关系数、互信息条形图、XGBoost 先了解该概念 23.27
+
+## 11.16. 周六 天气阴
+
+看师兄的论文，整理博客 15.18
+
+看完了四种improvement methods 16.41
+
+数模看到了PCA 23.23
