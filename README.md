@@ -5,7 +5,7 @@ This is a repository used to record daily learning during graduate studies.
 
 ## 4.13. 周日 天气晴
 
-
+真正的上岸是，当你做好了足够的心理准备，去面对你想要的生活，所之伴有的所有压力和创伤。不能说是真正的上岸，因为现在有了很多的不确定性，之前的方法论是很明确的。
 
 ## 1.11. 周六 天气阴
 
