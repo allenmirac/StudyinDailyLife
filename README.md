@@ -3,6 +3,10 @@ This is a repository used to record daily learning during graduate studies.
 
 # 2025
 
+## 5.27. 周二 天气晴
+
+开始学习项目，雷神的的博客真的写的很好，继续学习下去（图像YUV分量的处理） 19.25
+
 ## 5.18. 周日 天气晴
 
 上午看一会儿zrt的软考的视频，然后就去健身了，每次健身都碰见熟人哈哈 12.06
