@@ -3,6 +3,10 @@ This is a repository used to record daily learning during graduate studies.
 
 # 2025
 
+## 5.29. 周四 天气阴
+
+继续学习博客，今天是PCM篇 21.38
+
 ## 5.27. 周二 天气晴
 
 开始学习项目，雷神的的博客真的写的很好，继续学习下去（图像YUV分量的处理） 19.25
