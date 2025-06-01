@@ -3,6 +3,16 @@ This is a repository used to record daily learning during graduate studies.
 
 # 2025
 
+## 6.1. 周日 下雨
+
+下了三天的雨了ಠ_ಠ，武汉这天气，一下雨就很闷 20.21
+
+前两天看了H.264、AAC、以及FLV的解析 20.22
+
+重构了simplest_mediadata_flv.cpp，结构更加清晰了 20.23
+
+明天继续看UDP的部分，马上开始实践，不知道做出来是一个什么效果 20.23
+
 ## 5.29. 周四 天气阴
 
 继续学习博客，今天是PCM篇 21.38
