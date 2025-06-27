@@ -3,6 +3,16 @@ This is a repository used to record daily learning during graduate studies.
 
 # 2025
 
+## 6.27. 周五 天气阴晴不定
+
+我靠，早上下暴雨，上午出太阳，中午又下暴雨，主打的是随着心情变化而变化啊哈哈哈哈哈哈 14.30
+
+最近在忙RTSPServer项目，net部分，net部分回顾了WebServer的内容，发现还是有很大的难度，正在学习GoogleTest来测试并修改功能 16.35
+
+尽量在一周内编写完测试类，以及兼顾新方向的实验（又得转到图像处理方向了，唉）  17.38
+
+源码地址：[RtspServer](https://github.com/allenmirac/RtspServer)
+
 ## 6.1. 周日 下雨
 
 下了三天的雨了ಠ_ಠ，武汉这天气，一下雨就很闷 20.21
