@@ -3,6 +3,16 @@ This is a repository used to record daily learning during graduate studies.
 
 # 2025
 
+## 8.7. 周四 雨又晴
+
+为啥一到刷题、看论文，还有刷八股就有一种厌烦感，抗拒
+
+看了一篇论文，针对的是减少计算量而优化的网络，CLOL，明天得继续自己看代码实现
+
+没刷八股和题，这半个月总是断断续续的，然后就过来了
+
+早点睡，别一直想这想那，Fighting！(～￣▽￣)～  23.42
+
 ## 7.18. 周五 半夜暴雨
 
 一转眼半个月过去
